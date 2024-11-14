@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(to right, #a15656, #4159aa);
+    filter: blur(-1px);
+    z-index: -1;
+}
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 180px;
+    height: 160px;
+}
+
+.background{
+    background-color: #016a5e;
+}
+
+#nameT1{
+    color: wheat;
+}
+
+#nameT2{
+    color: wheat;
+}
+
+#contactT{
+    color: wheat;
+}
+
+#emailT{
+    color: wheat;
+}
+
+#addressT{
+    color: wheat;
+}
+
+#linkedT1{
+    color: black;
+}
+
+#githubT1{
+    color: black;
+}
+
+#instaT1{
+    color: black;
+}
+
+.card-body{
+    background-color: #f5f5f5;
+}
+
+ul li{
+    list-style-type: square;
+}
